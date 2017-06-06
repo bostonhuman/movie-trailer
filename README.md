@@ -1,12 +1,8 @@
 # Movie Trailer Website
 
-**Author:**	Chris Ullyott
-
 **Course:**	Programming Foundations with Python
 
-**Program:** Udacity - Full Stack Web Developer Nanodegree
-
-## Run
+## How to run the app
 
 To run the movie trailer website, follow these steps:
 
@@ -16,6 +12,3 @@ To run the movie trailer website, follow these steps:
 
 3. Upload `index.html` to a real web server if you like.
 
-Here's a preview:
-
-http://downloads.chrisullyott.com/courses/udacity/intro-to-programming/index.html
